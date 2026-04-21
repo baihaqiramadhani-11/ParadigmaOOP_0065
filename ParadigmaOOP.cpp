@@ -12,4 +12,7 @@ public:
         cout<<"Nama = " nama <<endl;
         cout<<"Nilai = "<< nilai <<endl;
     )
+);
+int main()(
+   mahasiswa mhs1; 
 )
